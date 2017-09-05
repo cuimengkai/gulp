@@ -1,0 +1,25 @@
+{
+  "name": "gulp_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuimengkai/gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "cuimengkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuimengkai/gulp/issues"
+  },
+  "homepage": "https://github.com/cuimengkai/gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
